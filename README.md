@@ -1,4 +1,4 @@
-# Etch_A_Sketch
+# Etch_A_Sketch [ [Live Demo](https://codamee.github.io/Etch-A-Sketch/) ]
 This is a Minimal Sketchboard built using Html,css && Javascript.In this we have some basic features like erase,colors,resetting and changing the pixels of board.
 
 ## Features
