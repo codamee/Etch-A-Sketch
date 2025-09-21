@@ -9,4 +9,4 @@ This is a Minimal Sketchboard built using Html,css && Javascript.In this we have
 - To erase the content drawn ,click on the Erase(Button color changes to green when turn on && after erasing please turn of the erase to draw Again)
 - To erase the Board completely use Reset button(Whole drawn content will be removed,So use it Carefully).
 
-### [Live Demo](https://codamee.github.io/Etch-A-Sketch/)
+### -[Live Demo](https://codamee.github.io/Etch-A-Sketch/)
